@@ -86,7 +86,7 @@ Here's a walkthrough of the implemented required features:
 
 <img src="https://i.imgur.com/WCOtzZu.gif" alt="Video Walkthrough" width="900"/>
 
-GIF created with [ScreenToGif](https://www.screentogif.com/) :contentReference[oaicite:0]{index=0}
+GIF created with [ScreenToGif](https://www.screentogif.com/)
 
 ---
 
