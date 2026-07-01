@@ -84,7 +84,7 @@ The following additional features are implemented:
 
 Here's a walkthrough of the implemented features:
 
-<img src="assets/walkthrough.gif" title="Video Walkthrough" width="900" alt="Video Walkthrough"/>
+<img src="./assets/walkthrough.gif" width="900">
 
 GIF created with **ScreenToGif**
 
