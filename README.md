@@ -84,7 +84,7 @@ The following additional features are implemented:
 
 Here's a walkthrough of the implemented features:
 
-<img src="YOUR_GIF_LINK_HERE" title="Video Walkthrough" width="900" alt="Video Walkthrough"/>
+<img src="assets/walkthrough.gif" title="Video Walkthrough" width="900" alt="Video Walkthrough"/>
 
 GIF created with **ScreenToGif**
 
