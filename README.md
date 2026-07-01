@@ -83,10 +83,10 @@ The following additional features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of the implemented features:
+<img src="https://imgur.com/a/Pchmu65" width="900">
 
-<img src="./assets/walkthrough.gif" width="900">
 
-GIF created with **ScreenToGif**
+GIF created with [ScreenToGif](https://www.screentogif.com/)
 
 ---
 
