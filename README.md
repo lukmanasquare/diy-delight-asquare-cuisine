@@ -84,7 +84,7 @@ The following additional features are implemented:
 
 Here's a walkthrough of the implemented required features:
 
-<img src="https://imgur.com/a/E2GER2O" width="900"/>
+<img src="./assets/walkthrough.gif" width="900">
 
 GIF created with [ScreenToGif](https://www.screentogif.com/)
 
