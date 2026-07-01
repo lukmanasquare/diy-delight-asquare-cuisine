@@ -82,11 +82,11 @@ The following additional features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of the implemented features:
-<img src="https://imgur.com/a/Pchmu65" width="900">
+Here's a walkthrough of the implemented required features:
 
+<img src="https://i.imgur.com/WCOtzZu.gif" alt="Video Walkthrough" width="900"/>
 
-GIF created with [ScreenToGif](https://www.screentogif.com/)
+GIF created with [ScreenToGif](https://www.screentogif.com/) :contentReference[oaicite:0]{index=0}
 
 ---
 
